@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/wolfgang/Documents/repos/curl/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/curl.dir/curlver.o -c /home/wolfgang/Documents/repos/curl/curlver.cpp",
+  "file": "/home/wolfgang/Documents/repos/curl/curlver.cpp",
+  "output": "CMakeFiles/curl.dir/curlver.o"
+},
+{
+  "directory": "/home/wolfgang/Documents/repos/curl/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/curl.dir/structs.o -c /home/wolfgang/Documents/repos/curl/structs.cpp",
+  "file": "/home/wolfgang/Documents/repos/curl/structs.cpp",
+  "output": "CMakeFiles/curl.dir/structs.o"
+},
+{
+  "directory": "/home/wolfgang/Documents/repos/curl/build",
+  "command": "/usr/bin/c++ -g -fmodules-ts -fmodule-mapper=CMakeFiles/curl.dir/__init__.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/curl.dir/__init__.o -c /home/wolfgang/Documents/repos/curl/__init__.cpp",
+  "file": "/home/wolfgang/Documents/repos/curl/__init__.cpp",
+  "output": "CMakeFiles/curl.dir/__init__.o"
+}
+]

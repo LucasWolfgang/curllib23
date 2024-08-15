@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/curl.dir/__init__.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "curl_module",
+			"relative-directory" : "",
+			"source" : "/home/wolfgang/Documents/repos/curl/__init__.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "/home/wolfgang/Documents/repos/curl/build",
+	"dir-cur-src" : "/home/wolfgang/Documents/repos/curl",
+	"dir-top-bld" : "/home/wolfgang/Documents/repos/curl/build",
+	"dir-top-src" : "/home/wolfgang/Documents/repos/curl",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/wolfgang/Documents/repos/curl/build/CMakeFiles/curl.dir"
+}
